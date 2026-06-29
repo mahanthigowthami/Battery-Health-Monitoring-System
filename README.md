@@ -1,6 +1,4 @@
 # Battery-Health-Monitoring-System
-# Battery Health Monitoring System
-
 ## Overview
 
 The Battery Health Monitoring System is a beginner-friendly Java console application developed as an extension of my Smart Mobile Charging Extension mini project. It monitors the battery percentage of a mobile device and provides charging recommendations based on the battery level.
